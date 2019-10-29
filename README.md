@@ -6,7 +6,7 @@ These are my solutions to algorithms from Codewars, freeCodeCamp, etc.
 
 |   Language    |  Algos Solved    | 
 |---------------|:----------------:|
-| Javascript    |       20          | 
+| Javascript    |       24          | 
 | Ruby          |       17          | 
 
 Codewars profile: [janetmndz](https://www.codewars.com/users/janetmndz)
